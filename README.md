@@ -71,7 +71,7 @@ I'm a **Software Engineer🎓 [@ Atlas Kitchen](https://www.atlas.kitchen/)** bu
 </span>
 
 
-### 🚀 Quick Stats
+<!-- ### 🚀 Quick Stats
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=talkintomato&show_icons=true&line_height=21&theme=react" alt="talkintomato's Github Stats" />
-</p>
+</p> -->
