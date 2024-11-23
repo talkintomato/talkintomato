@@ -1,5 +1,5 @@
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Hey there!, I am <a href="https://github.com/talkintomato">Darin</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1><img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+Hey there!, I'm <a href="https://github.com/talkintomato">Darin</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### 📬 Find me at
@@ -8,8 +8,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darinloh@gmail.com)](mailto:darinloh@gmail.com)
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Software Engineer🎓 [@ Atlas Kitchen 🅾️](https://www.atlas.kitchen/)** building the OS of Restaurants. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with emerging tech. I love building interesting and delightful products that serve a great deal of purpose. <br/><br/>
+### A little about me... 
+I'm a **Software Engineer🎓 [@ Atlas Kitchen](https://www.atlas.kitchen/)** building the OS of Restaurants. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with emerging tech. I love building interesting and delightful things that serve a great deal of purpose. <br/><br/>
 
 
 
@@ -17,12 +17,12 @@ I'm a **Software Engineer🎓 [@ Atlas Kitchen 🅾️](https://www.atlas.kitche
 ## ⚡️ A Few Quick Facts
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Fullstack web applications
+  - 🌐 Fullstack web applications
   - 🛠 Mini homelab projects
 - 👯 I’m looking to collaborate on making websites and impactful products
-- 💬 Ask me about Javascript, food and personal finance
-- 📙 Check out my [Resume](https://www.linkedin.com/in/darinloh/)
-- 🎉 Fun-Fact: I ❤️ food, adventures and watch a lot anime
+- 💬 Ask me about web, 🍔food and 📈personal finance
+- 📙 Check out my [Resume](./DarinLoh.pdf)
+- 🎉 Fun-Fact: I ❤️ food and 🏂adventures
 
   
 ### 🖥️ My DevSetup
